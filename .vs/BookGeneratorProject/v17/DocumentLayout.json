@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\model\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\model\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\repository\\irepository\\ibookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\repository\\irepository\\ibookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\repository\\services\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\repository\\services\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|c:\\users\\user\\source\\repos\\bookgeneratorproject\\bookgeneratorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D88380-91C0-4CA3-BC19-FC761D162808}|BookGeneratorProject\\BookGeneratorProject.csproj|solutionrelative:bookgeneratorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Model\\Region.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Model\\Region.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Model\\Region.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Model\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:55:57.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:34:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Repository\\IRepository\\IBookGenerator.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Repository\\IRepository\\IBookGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Repository\\IRepository\\IBookGenerator.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Repository\\IRepository\\IBookGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:33:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Program.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Program.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:22:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\appsettings.json",
+              "RelativeToolTip": "BookGeneratorProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T15:20:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Model\\Book.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:17:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Repository\\Services\\BookGenerator.cs",
+              "RelativeDocumentMoniker": "BookGeneratorProject\\Repository\\Services\\BookGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookGeneratorProject\\BookGeneratorProject\\Repository\\Services\\BookGenerator.cs",
+              "RelativeToolTip": "BookGeneratorProject\\Repository\\Services\\BookGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:33:50.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

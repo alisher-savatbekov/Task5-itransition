@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "BookGeneratorProject.Controllers.BooksController",
+    "Method": "GenerateBooks",
+    "RelativePath": "api/Books/generate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "bookCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "averageLikes",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "averageReviews",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BookGeneratorProject.Model.Book, BookGeneratorProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+@BookGeneratorProject_HostAddress = http://localhost:5032
+
+GET {{BookGeneratorProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
